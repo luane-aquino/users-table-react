@@ -1,0 +1,31 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 0 auto;
+}
+
+td, th {
+  border: #FFFFFF solid 1px;
+  padding: 0.3em;
+}
+
+thead {    
+  color: #FFFFFF;
+  background-color: #5CB6DA;
+}
+
+tbody {
+  background-color: #D9E2FF;
+}
+
+tfoot {
+  background-color: #FFFFFF;
+}
