@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/women-can-code-react-table/static/css/main.0d82a3c1.chunk.css",
+    "main.js": "/women-can-code-react-table/static/js/main.1d16e173.chunk.js",
+    "main.js.map": "/women-can-code-react-table/static/js/main.1d16e173.chunk.js.map",
+    "runtime-main.js": "/women-can-code-react-table/static/js/runtime-main.0fc08703.js",
+    "runtime-main.js.map": "/women-can-code-react-table/static/js/runtime-main.0fc08703.js.map",
+    "static/js/2.374165dd.chunk.js": "/women-can-code-react-table/static/js/2.374165dd.chunk.js",
+    "static/js/2.374165dd.chunk.js.map": "/women-can-code-react-table/static/js/2.374165dd.chunk.js.map",
+    "index.html": "/women-can-code-react-table/index.html",
+    "precache-manifest.0e405db4a7668259ee9cf4bd608a0c17.js": "/women-can-code-react-table/precache-manifest.0e405db4a7668259ee9cf4bd608a0c17.js",
+    "service-worker.js": "/women-can-code-react-table/service-worker.js",
+    "static/css/main.0d82a3c1.chunk.css.map": "/women-can-code-react-table/static/css/main.0d82a3c1.chunk.css.map",
+    "static/js/2.374165dd.chunk.js.LICENSE.txt": "/women-can-code-react-table/static/js/2.374165dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc08703.js",
+    "static/js/2.374165dd.chunk.js",
+    "static/css/main.0d82a3c1.chunk.css",
+    "static/js/main.1d16e173.chunk.js"
+  ]
+}
