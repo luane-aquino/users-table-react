@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import Itens from '../Items'
+import Items from '../Items'
 
 class Users extends Component {
     state = {
@@ -23,9 +23,9 @@ class Users extends Component {
                         <td>{usuario.name}</td>
                         <td>{usuario.email}</td>
                         <td>{usuario.phone}</td>
-                        <Itens idUsuario={usuario.id} tipo="albums" />
-                        <Itens idUsuario={usuario.id} tipo="posts" />
-                        <Itens idUsuario={usuario.id} tipo="photos" />
+                        <Items idUsuario={usuario.id} tipo="albums" />
+                        <Items idUsuario={usuario.id} tipo="posts" />
+                        <Items idUsuario={usuario.id} tipo="photos" />
                     </tr>
                 ))}
             </>
