@@ -2,17 +2,12 @@ import React, { Component } from 'react';
 import axios from 'axios';
 
 class Items extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            items: [],
-            idUsuario: props.idUsuario,
-            tipo: props.tipo
-        }
+    state = {
+        items: []
     }
 
     componentDidMount = () => {
-        axios.get(`https://jsonplaceholder.typicode.com/users/${this.state.idUsuario}/${this.state.tipo}`)
+        axios.get(`https://jsonplaceholder.typicode.com/users/${this.props.idUsuario}/${this.props.tipo}`)
             .then(result => {
                 this.setState({
                     items: result.data
