@@ -12,10 +12,6 @@ demo link: https://luane-aquino.github.io/users-table-react/
 
 `npm install`
 
-`npm install -g json-server`
-
-`json-server --watch api.json`
-
 `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
