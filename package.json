@@ -1,6 +1,6 @@
 {
-  "homepage": "https://luane-aquino.github.io/women-can-code-react-table",
-  "name": "my-table",
+  "homepage": "https://luane-aquino.github.io/users-table-react",
+  "name": "users-table-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
