@@ -1,6 +1,6 @@
 # Users table
 
-React app that consumes data from an API and show users in a table.
+React app that consumes data from API https://jsonplaceholder.typicode.com/users and show users in a table.
 
 demo link: https://luane-aquino.github.io/users-table-react/
 
