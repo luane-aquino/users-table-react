@@ -1,15 +1,19 @@
-Simples react app que mostra dados de usuário de uma API em uma tabela. Atividade desenvolvida no womenCanCode/Venturus em 2020.
+React app that consumes data from an API and show users in a table.
 
-demo link: https://luane-aquino.github.io/women-can-code-react-table/
+demo link: https://luane-aquino.github.io/users-table-react/
 
-## Available Scripts
+## Commands to run this project locally
 
-In the project directory, you can run:
+`git clone git@github.com:luane-aquino/users-table-react.git`
 
-### `yarn start`
+`cd users-table-react`
 
-Runs the app in the development mode.<br />
+`npm install`
+
+`npm install -g json-server`
+
+`json-server --watch api.json`
+
+`npm start`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
