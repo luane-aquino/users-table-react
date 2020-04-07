@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/women-can-code-react-table/static/css/main.0d82a3c1.chunk.css",
-    "main.js": "/women-can-code-react-table/static/js/main.1d16e173.chunk.js",
-    "main.js.map": "/women-can-code-react-table/static/js/main.1d16e173.chunk.js.map",
-    "runtime-main.js": "/women-can-code-react-table/static/js/runtime-main.0fc08703.js",
-    "runtime-main.js.map": "/women-can-code-react-table/static/js/runtime-main.0fc08703.js.map",
-    "static/js/2.374165dd.chunk.js": "/women-can-code-react-table/static/js/2.374165dd.chunk.js",
-    "static/js/2.374165dd.chunk.js.map": "/women-can-code-react-table/static/js/2.374165dd.chunk.js.map",
-    "index.html": "/women-can-code-react-table/index.html",
-    "precache-manifest.0e405db4a7668259ee9cf4bd608a0c17.js": "/women-can-code-react-table/precache-manifest.0e405db4a7668259ee9cf4bd608a0c17.js",
-    "service-worker.js": "/women-can-code-react-table/service-worker.js",
-    "static/css/main.0d82a3c1.chunk.css.map": "/women-can-code-react-table/static/css/main.0d82a3c1.chunk.css.map",
-    "static/js/2.374165dd.chunk.js.LICENSE.txt": "/women-can-code-react-table/static/js/2.374165dd.chunk.js.LICENSE.txt"
+    "main.css": "/users-table-react/static/css/main.0d82a3c1.chunk.css",
+    "main.js": "/users-table-react/static/js/main.e18a112e.chunk.js",
+    "main.js.map": "/users-table-react/static/js/main.e18a112e.chunk.js.map",
+    "runtime-main.js": "/users-table-react/static/js/runtime-main.282a0e9a.js",
+    "runtime-main.js.map": "/users-table-react/static/js/runtime-main.282a0e9a.js.map",
+    "static/js/2.ba946736.chunk.js": "/users-table-react/static/js/2.ba946736.chunk.js",
+    "static/js/2.ba946736.chunk.js.map": "/users-table-react/static/js/2.ba946736.chunk.js.map",
+    "index.html": "/users-table-react/index.html",
+    "precache-manifest.e116edb2872f2ed55ce223c3e161dd6d.js": "/users-table-react/precache-manifest.e116edb2872f2ed55ce223c3e161dd6d.js",
+    "service-worker.js": "/users-table-react/service-worker.js",
+    "static/css/main.0d82a3c1.chunk.css.map": "/users-table-react/static/css/main.0d82a3c1.chunk.css.map",
+    "static/js/2.ba946736.chunk.js.LICENSE.txt": "/users-table-react/static/js/2.ba946736.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fc08703.js",
-    "static/js/2.374165dd.chunk.js",
+    "static/js/runtime-main.282a0e9a.js",
+    "static/js/2.ba946736.chunk.js",
     "static/css/main.0d82a3c1.chunk.css",
-    "static/js/main.1d16e173.chunk.js"
+    "static/js/main.e18a112e.chunk.js"
   ]
 }
